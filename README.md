@@ -9,4 +9,4 @@ As a part of this project we:
 
 Detailed summary of the project can found in this [presentation](SpringBoardRescue_Presentation.pdf )
 
-**This project was done in collaboration with: Vera Schulz and Ruian Pan. **
+**This project was done in collaboration with: Vera Schulz and Ruian Pan.**
